@@ -485,8 +485,8 @@ class _PostScreenState extends State<PostScreen> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               (desc == 'null' || desc.isEmpty) ? richtext(
-                  'Description', 'No description of this image') : richtext(
-                  'Description', '$desc'),
+                  'Description', 'No description of this image') : Expanded(child:richtext(
+                  'Description', '$desc')),
               IconButton(onPressed: (){
                 showMyDialog('Description','$desc', id);
               }, icon: Icon(Icons.edit_note_rounded))
@@ -497,7 +497,7 @@ class _PostScreenState extends State<PostScreen> {
             children: [
               (text == 'null' || text.isEmpty)
                   ? richtext('Text', 'No post text')
-                  : richtext('Text', '$text'),
+                  : Expanded(child:richtext('Text', '$text')),
               IconButton(onPressed: (){
                 showMyDialog('Text','$text', id);
               }, icon: Icon(Icons.edit_rounded))
