@@ -63,12 +63,13 @@ c. if you want to use options like Sign in with Google or a phone number for tha
 In the last photo you had seen some kind of small circle image on the screen actually, that is a refresh indicator that we see after we refresh our screen because, after any modification in data on the database, our app UI takes some time to change the contents so you can wait or refresh the screen.
 
 # Now at last two sign in ways-
-1.with Phone-
+
 -![photo_2023-04-21_22-06-39](https://user-images.githubusercontent.com/87036588/233689409-c381ea1d-3b7d-4959-8f6e-82c52fc2bf0c.jpg)
 -![photo_2023-04-21_22-06-42](https://user-images.githubusercontent.com/87036588/233689475-acd17077-67b4-4571-af06-39ac829cef07.jpg)
 -![photo_2023-04-21_22-06-38](https://user-images.githubusercontent.com/87036588/233689527-317d7c3c-8bd0-4b5b-b537-e1c60f2dea3d.jpg)
-2.with Google
--![photo_2023-04-21_22-06-40](https://user-images.githubusercontent.com/87036588/233689627-7c865857-2133-424c-b59b-440c25b6f483.jpg)
+
+![Screenshot_2023-04-21-22-41-50-092_com miui gallery 1](https://user-images.githubusercontent.com/87036588/233696230-3dde2e1c-4934-4970-b867-90aa94446eb1.jpg)
+
 Result from both screen-
 -![photo_2023-04-21_18-46-59](https://user-images.githubusercontent.com/87036588/233689869-52f79651-893b-4121-9100-51e441917041.jpg)
 
