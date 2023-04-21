@@ -37,10 +37,10 @@ This Application Demo
 -![photo_2023-04-21_18-47-07](https://user-images.githubusercontent.com/87036588/233650700-9dec61de-dacd-446c-acd5-50fa106bd2e8.jpg)
 
 # If we select delete option then we move to the signup screen again to create a new account and if we select signout option then we move to the signin screen again 
-but there are some signin process rules to remember-
-a. fill the correct information which you have write while signup otherwise it show an that this user email or password is wrong/incorrect/not exist.
-b. even after filling correct information your account sure to be verified whenyou signed up otherwise you can not use this application
-c. if you want to use options signin with google or phone number,so first you have to link your account when you signin the app with email and password.By this way one authentication id can link with three providers and you can login in by selecting one of them option.
+But there are some signin process rules to remember-
+a. fill in the correct information that you have written while signing up if not, it shows that this user email or password is wrong/incorrect/does not exist.
+b. even after filling correct detail your account is sure to be verified when you signed up or else  you can not use this application
+c. if you want to use options like Sign in with Google or a phone number for that you have to link your account when you signin to the app with your email and password. In this way, one authentication id can be linked with three providers & you can log in by selecting one of the options.
 
 2. Now for linking your gmail/password authentication account with Google and Phone Number authentication, click the bottom button link an account then you can see options to select providers. 
 -![photo_2023-04-21_18-47-06](https://user-images.githubusercontent.com/87036588/233650895-52f1ba3b-0c86-4259-8a69-ad266733ee9a.jpg)
