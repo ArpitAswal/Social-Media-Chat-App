@@ -32,7 +32,7 @@ This Application Demo
 -![photo_2023-04-21_18-46-55](https://user-images.githubusercontent.com/87036588/233658656-e94f558b-7a07-4e58-81f4-587884041403.jpg)
 -![photo_2023-04-21_18-47-07](https://user-images.githubusercontent.com/87036588/233649067-9d1158e0-0f18-4b66-b31e-7b410d7f6b3a.jpg)
 
-# In this screen for now we have three fuctionality which we can do for now-
+# In this screen,for now we have three fuctionalities that we can do currently-
 1. we can sign out our current account and delete the account if we don't want to use this account further
 -![photo_2023-04-21_18-47-07](https://user-images.githubusercontent.com/87036588/233650700-9dec61de-dacd-446c-acd5-50fa106bd2e8.jpg)
 
