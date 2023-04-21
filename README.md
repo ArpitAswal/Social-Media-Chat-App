@@ -52,10 +52,9 @@ c. if you want to use options like Sign in with Google or a phone number for tha
 -![photo_2023-04-21_18-47-05](https://user-images.githubusercontent.com/87036588/233653693-918b7f59-2cef-479a-8ab8-676e6b626e5a.jpg)
 -![photo_2023-04-21_18-47-04](https://user-images.githubusercontent.com/87036588/233653736-d0a3bb4f-1152-44f8-b97a-8002be24dcc1.jpg)
 -![photo_2023-04-21_18-47-02](https://user-images.githubusercontent.com/87036588/233653891-1d5c22ca-3694-4209-a095-e114f7b0367f.jpg)
--![photo_2023-04-21_18-46-59](https://user-images.githubusercontent.com/87036588/233654025-8a6296bd-496e-4089-8fc3-5825972010e9.jpg)
 -![photo_2023-04-21_18-47-00](https://user-images.githubusercontent.com/87036588/233654058-2d6173c4-2be1-4243-8711-d884d85eb101.jpg)
 
-# Now as you can see,I added two contents in the one i did not provide iamge and its description and in the other one did not provide text by intentionally, as you can see there are icon buttons one is on blank area in image shape after we click on this button we move to image upload screen and the other two buttons are on both of texts at the right end, after we click on them we have chance/option to update the texts by editing previous one
+# Now as you can see,I added two contents in the one i did not provide image and its description and in the other one did not provide text by intentionally, as you can see there are icon buttons one is on blank area in image shape after we click on this button we move to image upload screen and the other two buttons are on both of texts at the right end, after we click on them we have chance/option to update the texts by editing previous one
 - ![photo_2023-04-21_18-47-01](https://user-images.githubusercontent.com/87036588/233657397-afed9023-81c4-45a3-953e-6e8418b3982a.jpg)
 -![photo_2023-04-21_18-46-59](https://user-images.githubusercontent.com/87036588/233657710-bbe8cb3b-cfe9-4570-ad9b-1fe56a85ce0b.jpg)
 -![photo_2023-04-21_18-47-00](https://user-images.githubusercontent.com/87036588/233657838-ad65ed2c-0eb3-4333-b381-afa74e596393.jpg)
