@@ -28,11 +28,11 @@ This Application Demo
 -![photo_2023-04-21_18-47-10](https://user-images.githubusercontent.com/87036588/233648584-9a9f9c3c-bfed-4f24-b33a-79f498ad9c7d.jpg)
 -![photo_2023-04-21_18-47-09](https://user-images.githubusercontent.com/87036588/233651987-d4a6ad7b-4b8e-442a-91cd-75a555147b11.jpg)
 
-#after we verified our email our sign up information is saved on firebase database and we can open the app again and we automatically enter the first (Home) screen of this app.
+# After we verified our email our sign up information is saved on firebase database and we can open the app again and we automatically enter the first (Home) screen of this app.
 -![photo_2023-04-21_18-46-55](https://user-images.githubusercontent.com/87036588/233658656-e94f558b-7a07-4e58-81f4-587884041403.jpg)
 -![photo_2023-04-21_18-47-07](https://user-images.githubusercontent.com/87036588/233649067-9d1158e0-0f18-4b66-b31e-7b410d7f6b3a.jpg)
 
-#In this screen for now we have three fuctionality which we can do for now-
+# In this screen for now we have three fuctionality which we can do for now-
 1. we can sign out our current account and delete the account if we don't want to use this account further
 -![photo_2023-04-21_18-47-07](https://user-images.githubusercontent.com/87036588/233650700-9dec61de-dacd-446c-acd5-50fa106bd2e8.jpg)
 
