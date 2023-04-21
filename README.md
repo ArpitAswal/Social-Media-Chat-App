@@ -59,7 +59,7 @@ c. if you want to use options like Sign in with Google or a phone number for tha
 -![photo_2023-04-21_18-46-59](https://user-images.githubusercontent.com/87036588/233657710-bbe8cb3b-cfe9-4570-ad9b-1fe56a85ce0b.jpg)
 -![photo_2023-04-21_18-47-00](https://user-images.githubusercontent.com/87036588/233657838-ad65ed2c-0eb3-4333-b381-afa74e596393.jpg)
 -![photo_2023-04-21_19-36-17](https://user-images.githubusercontent.com/87036588/233657963-2bc3c9ba-b288-4600-9fad-d69c75fe0ad6.jpg)
-
+-![photo_2023-04-21_18-46-59](https://user-images.githubusercontent.com/87036588/233686611-0b87663a-99d1-417b-a61f-4aafe420a085.jpg)
 
 
 
